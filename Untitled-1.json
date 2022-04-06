@@ -1,0 +1,508 @@
+{
+    "hits": [
+        {
+            "id": 512,
+            "firstName": "Alberto",
+            "lastName": "Shekle",
+            "email": "asheklee7@si.edu",
+            "gender": "Male",
+            "ipAddress": "205.96.196.59",
+            "company": "Zoombox",
+            "salaryCurrency": "PHP",
+            "salary": 7197.49,
+            "objectID": "f91075f7171f9_dashboard_generated_id",
+            "_snippetResult": {
+                "id": {
+                    "value": "512",
+                    "matchLevel": "none"
+                },
+                "firstName": {
+                    "value": "<em>Albert</em>o",
+                    "matchLevel": "full"
+                },
+                "lastName": {
+                    "value": "Shekle",
+                    "matchLevel": "none"
+                },
+                "email": {
+                    "value": "asheklee7@si.edu",
+                    "matchLevel": "none"
+                },
+                "gender": {
+                    "value": "Male",
+                    "matchLevel": "none"
+                },
+                "ipAddress": {
+                    "value": "205.96.196.59",
+                    "matchLevel": "none"
+                },
+                "company": {
+                    "value": "Zoombox",
+                    "matchLevel": "none"
+                },
+                "salaryCurrency": {
+                    "value": "PHP",
+                    "matchLevel": "none"
+                },
+                "salary": {
+                    "value": "7197.49",
+                    "matchLevel": "none"
+                }
+            },
+            "_highlightResult": {
+                "id": {
+                    "value": "512",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "firstName": {
+                    "value": "<em>Albert</em>o",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "albert"
+                    ]
+                },
+                "lastName": {
+                    "value": "Shekle",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "email": {
+                    "value": "asheklee7@si.edu",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "gender": {
+                    "value": "Male",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "ipAddress": {
+                    "value": "205.96.196.59",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "company": {
+                    "value": "Zoombox",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "salaryCurrency": {
+                    "value": "PHP",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "salary": {
+                    "value": "7197.49",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            },
+            "_rankingInfo": {
+                "nbTypos": 0,
+                "firstMatchedWord": 0,
+                "proximityDistance": 0,
+                "userScore": 986,
+                "geoDistance": 0,
+                "geoPrecision": 1,
+                "nbExactWords": 0,
+                "words": 1,
+                "filters": 0
+            }
+        },
+        {
+            "id": 661,
+            "firstName": "Alverta",
+            "lastName": "Gillebride",
+            "email": "agillebrideic@mozilla.com",
+            "gender": "Female",
+            "ipAddress": "221.203.123.3",
+            "company": "Oloo",
+            "salaryCurrency": "RUB",
+            "salary": 6889.01,
+            "objectID": "1969c785a434bb_dashboard_generated_id",
+            "_snippetResult": {
+                "id": {
+                    "value": "661",
+                    "matchLevel": "none"
+                },
+                "firstName": {
+                    "value": "<em>Alvert</em>a",
+                    "matchLevel": "full"
+                },
+                "lastName": {
+                    "value": "Gillebride",
+                    "matchLevel": "none"
+                },
+                "email": {
+                    "value": "agillebrideic@mozilla.com",
+                    "matchLevel": "none"
+                },
+                "gender": {
+                    "value": "Female",
+                    "matchLevel": "none"
+                },
+                "ipAddress": {
+                    "value": "221.203.123.3",
+                    "matchLevel": "none"
+                },
+                "company": {
+                    "value": "Oloo",
+                    "matchLevel": "none"
+                },
+                "salaryCurrency": {
+                    "value": "RUB",
+                    "matchLevel": "none"
+                },
+                "salary": {
+                    "value": "6889.01",
+                    "matchLevel": "none"
+                }
+            },
+            "_highlightResult": {
+                "id": {
+                    "value": "661",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "firstName": {
+                    "value": "<em>Alvert</em>a",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "albert"
+                    ]
+                },
+                "lastName": {
+                    "value": "Gillebride",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "email": {
+                    "value": "agillebrideic@mozilla.com",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "gender": {
+                    "value": "Female",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "ipAddress": {
+                    "value": "221.203.123.3",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "company": {
+                    "value": "Oloo",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "salaryCurrency": {
+                    "value": "RUB",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "salary": {
+                    "value": "6889.01",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            },
+            "_rankingInfo": {
+                "nbTypos": 1,
+                "firstMatchedWord": 0,
+                "proximityDistance": 0,
+                "userScore": 325,
+                "geoDistance": 0,
+                "geoPrecision": 1,
+                "nbExactWords": 0,
+                "words": 1,
+                "filters": 0
+            }
+        },
+        {
+            "id": 92,
+            "firstName": "Amelie",
+            "lastName": "Berthome",
+            "email": "aberthome2j@g.co",
+            "gender": "Female",
+            "ipAddress": "133.117.26.111",
+            "company": "Bubbletube",
+            "salaryCurrency": "PLN",
+            "salary": 8398.04,
+            "objectID": "176ebde6edc3a3_dashboard_generated_id",
+            "_snippetResult": {
+                "id": {
+                    "value": "92",
+                    "matchLevel": "none"
+                },
+                "firstName": {
+                    "value": "Amelie",
+                    "matchLevel": "none"
+                },
+                "lastName": {
+                    "value": "Berthome",
+                    "matchLevel": "none"
+                },
+                "email": {
+                    "value": "<em>abert</em>home2j@g.co",
+                    "matchLevel": "full"
+                },
+                "gender": {
+                    "value": "Female",
+                    "matchLevel": "none"
+                },
+                "ipAddress": {
+                    "value": "133.117.26.111",
+                    "matchLevel": "none"
+                },
+                "company": {
+                    "value": "Bubbletube",
+                    "matchLevel": "none"
+                },
+                "salaryCurrency": {
+                    "value": "PLN",
+                    "matchLevel": "none"
+                },
+                "salary": {
+                    "value": "8398.04",
+                    "matchLevel": "none"
+                }
+            },
+            "_highlightResult": {
+                "id": {
+                    "value": "92",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "firstName": {
+                    "value": "Amelie",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "lastName": {
+                    "value": "Berthome",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "email": {
+                    "value": "<em>abert</em>home2j@g.co",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "albert"
+                    ]
+                },
+                "gender": {
+                    "value": "Female",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "ipAddress": {
+                    "value": "133.117.26.111",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "company": {
+                    "value": "Bubbletube",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "salaryCurrency": {
+                    "value": "PLN",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "salary": {
+                    "value": "8398.04",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            },
+            "_rankingInfo": {
+                "nbTypos": 1,
+                "firstMatchedWord": 18,
+                "proximityDistance": 0,
+                "userScore": 255,
+                "geoDistance": 0,
+                "geoPrecision": 1,
+                "nbExactWords": 0,
+                "words": 1,
+                "filters": 0
+            }
+        }
+    ],
+    "nbHits": 3,
+    "page": 0,
+    "nbPages": 1,
+    "hitsPerPage": 10,
+    "facets": {},
+    "exhaustiveFacetsCount": true,
+    "exhaustiveNbHits": true,
+    "exhaustiveTypo": true,
+    "query": "Albert",
+    "params": "highlightPreTag=%3Cais-highlight-0000000000%3E&highlightPostTag=%3C%2Fais-highlight-0000000000%3E&getRankingInfo=true&analytics=false&enableABTest=false&hitsPerPage=10&attributesToRetrieve=*&attributesToSnippet=*%3A20&snippetEllipsisText=%E2%80%A6&responseFields=*&explain=*&query=Albert&page=0&facets=%5B%22*%22%5D&tagFilters=",
+    "index": "dev_EMPLOYEES",
+    "serverUsed": "c25-use-3.algolia.net",
+    "indexUsed": "dev_EMPLOYEES",
+    "parsedQuery": "albert",
+    "timeoutCounts": false,
+    "timeoutHits": false,
+    "explain": {
+        "match": {
+            "alternatives": [
+                {
+                    "types": [
+                        "original"
+                    ],
+                    "words": [
+                        "albert"
+                    ],
+                    "typos": 0,
+                    "offset": 0,
+                    "length": 1,
+                    "seqExpr": 0
+                },
+                {
+                    "types": [
+                        "typo"
+                    ],
+                    "words": [
+                        "abert"
+                    ],
+                    "typos": 1,
+                    "offset": 0,
+                    "length": 1,
+                    "seqExpr": null
+                },
+                {
+                    "types": [
+                        "typo"
+                    ],
+                    "words": [
+                        "alvert"
+                    ],
+                    "typos": 1,
+                    "offset": 0,
+                    "length": 1,
+                    "seqExpr": null
+                }
+            ]
+        },
+        "params": {
+            "client": {
+                "query": "Albert",
+                "analytics": false,
+                "page": 0,
+                "hitsPerPage": 10,
+                "attributesToRetrieve": [
+                    "*"
+                ],
+                "attributesToSnippet": [
+                    "*:20"
+                ],
+                "getRankingInfo": true,
+                "highlightPreTag": "<em>",
+                "highlightPostTag": "</em>",
+                "snippetEllipsisText": "…",
+                "tagFilters": [],
+                "facets": [
+                    "*"
+                ],
+                "responseFields": [
+                    "extensions",
+                    "renderingContent",
+                    "userData",
+                    "aroundLatLng",
+                    "queryAfterRemoval",
+                    "exhaustiveFacetsCount",
+                    "length",
+                    "offset",
+                    "hitsPerPage",
+                    "exhaustiveTypo",
+                    "exhaustiveNbHits",
+                    "params",
+                    "facets",
+                    "automaticRadius",
+                    "processingTimeMS",
+                    "nbPages",
+                    "facets_stats",
+                    "page",
+                    "index",
+                    "nbHits",
+                    "query",
+                    "hits"
+                ],
+                "enableABTest": false,
+                "explain": [
+                    "match.alternatives",
+                    "params.client",
+                    "params.apiKey",
+                    "params.abTest",
+                    "params.rules",
+                    "params.final"
+                ]
+            },
+            "apiKey": {},
+            "abTest": {},
+            "rules": {},
+            "final": {
+                "query": "Albert",
+                "analytics": false,
+                "page": 0,
+                "hitsPerPage": 10,
+                "attributesToRetrieve": [
+                    "*"
+                ],
+                "attributesToSnippet": [
+                    "*:20"
+                ],
+                "getRankingInfo": true,
+                "highlightPreTag": "<em>",
+                "highlightPostTag": "</em>",
+                "snippetEllipsisText": "…",
+                "tagFilters": [],
+                "facets": [
+                    "*"
+                ],
+                "responseFields": [
+                    "extensions",
+                    "renderingContent",
+                    "userData",
+                    "aroundLatLng",
+                    "queryAfterRemoval",
+                    "exhaustiveFacetsCount",
+                    "length",
+                    "offset",
+                    "hitsPerPage",
+                    "exhaustiveTypo",
+                    "exhaustiveNbHits",
+                    "params",
+                    "facets",
+                    "automaticRadius",
+                    "processingTimeMS",
+                    "nbPages",
+                    "facets_stats",
+                    "page",
+                    "index",
+                    "nbHits",
+                    "query",
+                    "hits"
+                ],
+                "enableABTest": false,
+                "explain": [
+                    "match.alternatives",
+                    "params.client",
+                    "params.apiKey",
+                    "params.abTest",
+                    "params.rules",
+                    "params.final"
+                ]
+            }
+        }
+    },
+    "renderingContent": {},
+    "processingTimeMS": 1
+}
